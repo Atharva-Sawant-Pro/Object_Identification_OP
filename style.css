@@ -1,0 +1,36 @@
+#Chocos{
+    width: 400px;
+    height: 55px;
+}
+#b{
+    width: 400px;
+    height: 55px;
+}
+#bo{
+    width: 400px;
+    height: 55px;
+}
+#c{
+    width: 400px;
+    height: 55px;
+}
+#f{
+    width: 400px;
+    height: 55px;
+}
+.home{
+    margin-top: 20px;
+    margin-right: 30px;
+    float: right;
+    float: top;
+}
+.heading{
+    width: 275px;
+    height: 50px;
+    font-size: 20px;
+}
+#status{
+    width: 275px;
+    height: 50px;
+    font-size: 20px;
+}
